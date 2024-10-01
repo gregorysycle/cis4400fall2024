@@ -1,0 +1,9 @@
+What is our gameplan?:
+(Loose list of what needs to be done)
+- Understand the OTC Market by reading up on it, finding reliable news sources daily, etc.
+- How do we model our warehouse before coding it in SQL.
+- Should we set up a weekly reoccuring meeting?
+- What is traded on the OTC market.
+- How does OTC Market work - is it for equities or other types of financial industries. 
+- What types of transactions?
+
