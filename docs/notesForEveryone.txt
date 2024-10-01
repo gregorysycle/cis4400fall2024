@@ -7,3 +7,12 @@ What is our gameplan?:
 - How does OTC Market work - is it for equities or other types of financial industries. 
 - What types of transactions?
 
+Professor Needs:
+- TimeSeries that shows the price for each security
+- Bar Chart for Volume per Sector, Per Security
+
+Useful Links:
+OTC Market: https://www.otcmarkets.com
+Classification Codes: https://classification.codes/classifications/industry/gics/
+Python Libraries: https://github.com/bukosabino/ta 
+Stock Screener: https://www.otcmarkets.com/research/stock-screener
