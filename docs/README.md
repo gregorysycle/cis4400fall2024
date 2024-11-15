@@ -24,6 +24,13 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 2. Extracting metadata for additional information
 3. Ensure proper handling of datasets covering historical prices and volumes. 
 
+## Technical Requirements: 
+
+## Regulatory Requirements:
+
+## Business Impact: 
+
+## Business Persona:
 
 ## Data 
 https://classification.codes/classifications/industry/gics/
