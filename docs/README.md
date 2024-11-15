@@ -14,3 +14,5 @@ Can we use this data to make a profit? If so how much
 
 ## Data 
 https://classification.codes/classifications/industry/gics/
+
+Link: https://docs.google.com/document/d/1HUXj2bIS_ldO7HUF8v8CM72bVIFwm2IMSr8Cz5d3f_s/edit?usp=sharing
