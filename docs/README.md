@@ -20,8 +20,10 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 
 
 ## Data Requirements
-1) TimeSeries that shows the price for each security 
-2) Bar Chart for Volume per Sector, Per Security
+1. Utilize OTC specific data such as Security ID, Company ID, Trading Symbol, etc. 
+2. Extracting metadata for additional information
+3. Ensure proper handling of datasets covering historical prices and volumes. 
+
 
 ## Data 
 https://classification.codes/classifications/industry/gics/
