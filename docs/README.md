@@ -1,4 +1,4 @@
-# cis4400fall2024 by Matthew, Alyssa, Gregory, and Daria
+# cis4400fall2024 by Matthew, Alyssa, Gregory, Daria, and Daniel
 # Analysis of OTC patterns
 
 ## Business Problem / Problem Statement 
