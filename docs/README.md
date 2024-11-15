@@ -24,7 +24,7 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 2. Extracting metadata for additional information
 3. Ensure proper handling of datasets covering historical prices and volumes. 
 
-## Technical Requirements: 
+## Technical Requirements
 1. Data storage and management
 2. Data processing
 3. Data analyzation 
@@ -38,11 +38,19 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 11. Data Center Policies: Address location and access policies
 
 
-## Regulatory Requirements:
+## Regulatory Requirements
+1. Compliance with SEC
+2. Any other laws regulations and 
+3. Adhere to Laws and Regulations: Examples include Sarbanes-Oxley, HIPAA, PCI
+4. Industry-Specific Standards: Ensure compliance with industry guidelines
+5. Security and Privacy: Address data security and privacy concerns
+6. Cross-Border Compliance: Consider international regulations if applicable
+7. Continuous Monitoring: Keep up with changing regulations
 
-## Business Impact: 
 
-## Business Persona:
+## Business Impact
+
+## Business Persona
 
 ## Data 
 https://classification.codes/classifications/industry/gics/
