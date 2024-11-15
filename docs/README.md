@@ -6,11 +6,18 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 
 
 ## Business Requirements 
-Developing a product to analyze the OTC market using technical analysis to determine if we can make a profit 
-Visualize market trends through time series analysis for price per security 
-Visualizing volume per sector and volume per security 
+1. Developing a product to analyze the OTC market using technical analysis to determine if we can make a profit 
+2. Visualize market trends through time series analysis for price per security 
+3. Visualizing volume per sector and volume per security 
 
 ## Functional Requirements
+1. Bar chart: one for volume per secor and one for volume per security 
+2. Connect these sentences to a visualization 
+3. Time series graph: price per security over time 
+4. Must be modeled properly 
+5. Facilitating technical analysis through indicators such as ()
+6. (What kind of deep learning) to enhance analysis on and give insight on price and volume trends. 
+
 
 ## Data Requirements
 1) TimeSeries that shows the price for each security 
