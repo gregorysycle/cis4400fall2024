@@ -6,7 +6,9 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 
 
 ## Business Requirements 
-Can we use this data to make a profit? If so how much
+Developing a product to analyze the OTC market using technical analysis to determine if we can make a profit 
+Visualize market trends through time series analysis for price per security 
+Visualizing volume per sector and volume per security 
 
 ## Functional Requirements
 
