@@ -25,6 +25,18 @@ This project involves an in-depth technical analysis of OTC Market transactions,
 3. Ensure proper handling of datasets covering historical prices and volumes. 
 
 ## Technical Requirements: 
+1. Data storage and management
+2. Data processing
+3. Data analyzation 
+4. Deep Learning Implementation
+5. Data visualization
+6. Performance and scalability 
+7. Infrastructure Standards: Define necessary hardware and software
+8. Technology Directions: Align with strategic technology goals
+9. Vendor Policies: Follow guidelines for vendor selection and usage
+10. Cloud vs. On-Premises: Determine where work will be performed
+11. Data Center Policies: Address location and access policies
+
 
 ## Regulatory Requirements:
 
