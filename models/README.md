@@ -1,6 +1,5 @@
-Included are the following models:
+**Included are the following models:**
 
-
-Technical Architecture
-Information Architecture 
-Dimensional Modeling
+- Data Architecture
+- Information Architecture 
+- Dimensional Modeling Diagram
