@@ -1,5 +1,5 @@
 # Analysis of OTC patterns
-# By Matthew, Alyssa, Gregory, Daria, and Daniel
+**By Matthew, Alyssa, Gregory, Daria, and Daniel**
 
 ## Business Problem / Problem Statement 
 This project involves an in-depth technical analysis of OTC Market transactions, providing investment solutions for securities not on a traditional exchange. These securities can include any derivative securities such as a stock or bond, but pose limited transparency, lack of liquidity, and limited available public information. This will allow the company to enhance its current offerings by providing investors with insights into market trends and sector-based trading problems. Through deep learning algorithms, the project will focus on providing a profit from the OTC market.
@@ -65,7 +65,7 @@ Our company specializes in advanced financial analytics and solutions for Over-T
 3. Confidence in trades: Makes traders more confident due to reliable technical analysis, minimizing guesswork and emotional decisions.
 
 
-### Company Benefit
+## Company Benefit
 1. Improved decision-making: Supports data-driven strategies, enabling better investment decisions and portfolio management.
 2. Company benefits: Drives revenue growth, increases user satisfaction through actionable insights, and enhances operational efficiency across the company.
 3. Moonshot benefit:
