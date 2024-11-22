@@ -1,1 +1,1 @@
-** Imported SQL schema**
+**Imported SQL schema**
