@@ -1,5 +1,5 @@
 # Project 7: Analysis of the OTC Market Transaction  
-##By:Daria Khotunitskaya, Gregory Sycle,Matthew Richards, Daniel Tlaxcaltecatl, Alyssa Iglesias
+## By:Daria Khotunitskaya, Gregory Sycle,Matthew Richards, Daniel Tlaxcaltecatl, Alyssa Iglesias
 
 ### Main Question  
 **Can we use this data to make a profit out of the OTC Market? If yes, how much?**  
