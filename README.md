@@ -138,14 +138,32 @@ DBT for structured pipeline automation, building star schemas, and ensuring data
 
 1. **Tree Map Visualization:**  
    - Displays hierarchical data like market share by sector and industry.  
-   - Highlights size and composition of each sector.  
+   - Highlights size and composition of each sector.
+  
+**Dollar Volume by Industry**
+   ![Dollar Volume by Industry](visualizations/charts/TreeMap_DollarVolumeByIndustry.png)
 
 2. **Bar Charts:**  
    - Trading Volumes by Sector: Highlights trading activity across sectors.  
-   - Trading Volumes by Security: Focuses on individual securities.  
+   - Trading Volumes by Security: Focuses on individual securities.
+
+**Dollar Volume by Security**
+   ![Dollar Volume by Security](visualizations/charts/BarChart_DollarVolumeBySecurity.png)
+
+**Dollar Volume by Sector**
+   ![Dollar Volume By Sector](visualizations/charts/BarChart_DollarVolumeBySector.png)
 
 3. **Time Series Graph:**  
    - Tracks price trends for individual securities over time.  
-   - Enables technical analysis of securities.  
+   - Enables technical analysis of securities.
 
+**Average Price Over Time by Trading Symbol**
+   ![Average Price Over Time](visualizations/charts/TimeSeriesLineGraph_AveragePriceOverTimeByTradingSymbol.png)
+
+
+## Interactive Dashboard
+[View on Looker Studio](https://lookerstudio.google.com/reporting/a45c370d-5933-4161-8707-0b5132dee9e3)
+
+## Tools Used
+- **Google Looker Studio**: For interactive dashboards.
 
