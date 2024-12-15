@@ -9,16 +9,16 @@ This folder contains visualizations related to dollar volume, and average prices
 
 ## Visualizations
 1. **Dollar Volume by Sector**
-   - Image: `charts/BarChart_DollarVolumeBySector.png`
+   ![Dollar Volume By Sector](charts/BarChartDollarVolumeBySector.png)
    - Insight: Materials sector leads with 197.9B.
 2. **Dollar Volume by Security**
-   - Image: `charts/BarChart_DollarVolumeBySecurity.png`
+   ![Dollar Volume by Security](charts/charts/BarChartDollarVolumeBySecurity.png)
    - Insight: AB ELECTROLUX B S/ADR dominates with 230.8B.
 3. **Dollar Volume by Industry**
-   - Image: `charts/TreeMap_DollarVolumeByIndustry.png`
+   ![Dollar Volume by Industry](charts/TreeMap_DollarVolumeByIndustry.png)
    - Insight: Metals & Mining makes up 80.95% of the total.
 4. **Average Price Over Time by Trading Symbol**
-   - Image: `charts/LineChart_AveragePriceOverTime.png`
+   ![Average Price Over Time](charts/AveragePriceOverTimeByTrading Symbol.png)
    - Insight: Displays trends for various trading symbols over time.
 
 ## Interactive Dashboard
